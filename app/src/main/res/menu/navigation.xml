@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_bit"
+        android:icon="@drawable/ic_action_bitcoin_225078_960_720"
+        android:title="@string/bit" />
+
+    <item
+        android:id="@+id/navigation_eth"
+        android:icon="@drawable/ic_action_buy_ethereum"
+        android:title="@string/eth" />
+
+    <item
+        android:id="@+id/navigation_lite"
+        android:icon="@drawable/ic_action_117441_litecoin_512x512"
+        android:title="@string/lit" />
+
+</menu>

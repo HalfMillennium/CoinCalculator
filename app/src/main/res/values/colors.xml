@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DCDCDC</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="navBarColor">#333333</color>
+    <color name="ether">#0B8311</color>
+    <color name="bit">#F8A33D</color>
+    <color name="lit">#BEBEBE</color>
+    <color name="navText">#808080</color>
+</resources>

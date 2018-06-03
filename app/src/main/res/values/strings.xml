@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoinCalculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bit">BITCOIN</string>
+    <string name="eth">ETHEREUM</string>
+    <string name="lit">LITECOIN</string>
+    <string name="amt">AMOUNT OWNED</string>
+    <string name="fee">SELLING FEE</string>
+    <string name="fee_desc">Enter as a decimal or $ flat fee (if %, divide by 100)</string>
+    <string name="fee_side">(If unknown, leave blank)</string>
+    <string name="def_val">$0</string>
+    <string name="def_val_euro">€0</string>
+    <string name="calc_text">CALCULATE PROFIT</string>
+</resources>
